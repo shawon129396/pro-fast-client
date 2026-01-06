@@ -36,7 +36,6 @@ const ClientsLogoMarquee = () => {
               className="
                 opacity-70 hover:opacity-100 transition 
                 object-contain
-                h-12 sm:h-16 md:h-20 lg:h-24   /* ⭐ fully responsive sizes */
               "
             />
           </div>
